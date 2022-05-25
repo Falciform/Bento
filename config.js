@@ -55,7 +55,7 @@ const CONFIG = {
 			id: '1',
 			name: 'Technology',
 			icon: 'cpu',
-			link: 'https://news.ycombinator.com/news/',
+			link: 'https://news.ycombinator.com/news',
 		},
 		{
 			id: '2',
