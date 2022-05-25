@@ -135,24 +135,24 @@ const CONFIG = {
 	// First Links Container
 	firstlistsContainer: [
 		{
-			icon: 'music',
+			icon: 'briefcase',
 			id: '1',
 			links: [
 				{
-					name: 'Inspirational',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Office 365',
+					link: 'https://www.office.com/?auth=2',
 				},
 				{
-					name: 'Classic',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Zendesk',
+					link: 'https://itsme.zendesk.com/agent/dashboard',
 				},
 				{
-					name: 'Oldies',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Jira - Confluence',
+					link: 'https://itsme-id.atlassian.net/jira/your-work',
 				},
 				{
-					name: 'Rock',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Pricing Grid',
+					link: 'https://belgiummobilewallet.sharepoint.com/:x:/r/_layouts/15/doc2.aspx?sourcedoc=%7BEBA79E7E-3CF2-41ED-BC27-259B87B354A1%7D&file=2021_Pricing%20guidelines%20%26%20simulators.xlsm&action=default&mobileredirect=true&CID=CA06A354-68BC-4B88-9803-292FD63229E9&wdLOR=c176F3D4F-E40D-4BA5-86C6-C073B8972EEB',
 				},
 			],
 		},
