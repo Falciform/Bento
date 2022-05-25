@@ -94,7 +94,7 @@ const CONFIG = {
 			id: '1',
 			name: 'Music',
 			icon: 'headphones',
-			link: 'https://open.spotify.com',
+			link: 'https://www.deezer.com/en/',
 		},
 		{
 			id: '2',
@@ -187,8 +187,8 @@ const CONFIG = {
 			id: '1',
 			links: [
 				{
-					name: 'Spotify',
-					link: 'https://www.spotify.com',
+					name: 'Deezer',
+					link: 'https://www.deezer.com/en/',
 				},
 				{
 					name: 'Reddit',
@@ -205,24 +205,24 @@ const CONFIG = {
 			],
 		},
 		{
-			icon: 'github',
+			icon: 'chef-hat',
 			id: '2',
 			links: [
 				{
 					name: 'Front',
-					link: 'https://www.reddit.com/r/Frontend/',
+					link: 'https://www.reddit.com/r/Fermentation/',
 				},
 				{
 					name: 'Rust',
-					link: 'https://www.reddit.com/r/rust/',
+					link: 'https://www.reddit.com/r/playrust/',
 				},
 				{
-					name: 'Go',
-					link: 'https://www.reddit.com/r/golang/',
+					name: 'Tiki',
+					link: 'https://www.reddit.com/r/tiki/',
 				},
 				{
-					name: 'Repos',
-					link: 'https://github.com/migueravila',
+					name: 'Ramen',
+					link: 'https://www.reddit.com/r/ramen/',
 				},
 			],
 		},
