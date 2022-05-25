@@ -165,16 +165,16 @@ const CONFIG = {
 					link: 'https://www.linkedin.com',
 				},
 				{
-					name: 'Dribbble',
-					link: 'https://www.dribbble.com',
+					name: 'Hacker News',
+					link: 'https://news.ycombinator.com/news',
 				},
 				{
-					name: 'Trello',
-					link: 'https://www.trello.com',
+					name: '9to5Linux',
+					link: 'https://9to5linux.com/',
 				},
 				{
-					name: 'Slack',
-					link: 'https://www.slack.com',
+					name: 'Its FOSS',
+					link: 'https://itsfoss.com/all-blog-posts/',
 				},
 			],
 		},
